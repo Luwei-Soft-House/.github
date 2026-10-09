@@ -1,24 +1,26 @@
 # Luwei Software House
 
-Construímos software, automação e inteligência artificial para transformar operações complexas em experiências simples, inteligentes e escaláveis.
+## Construímos o próximo.
 
-## Soluções
+A Luwei existe para transformar operações complexas em experiências simples, inteligentes e escaláveis.
 
-- Engenharia de software sob medida
-- Inteligência artificial aplicada a processos e produtos
-- Automação de fluxos operacionais
-- Plataformas digitais escaláveis
+Criamos software, automação e inteligência artificial com clareza de propósito, excelência de execução e foco no impacto real para pessoas e organizações.
 
-## Tecnologia
+## O que nos move
 
-Criamos produtos com arquitetura sólida, experiência clara e foco em impacto real para pessoas e organizações.
+- Pensar grande e construir com simplicidade
+- Transformar complexidade em experiências intuitivas
+- Fazer tecnologia servir às pessoas, não o contrário
+- Criar produtos duráveis, elegantes e responsáveis
 
-## Conheça a Luwei
+## Ecossistema Luwei
 
-- [Luwei Software House](https://luwei.com.br)
-- [Luwei Flow](https://luweiflow.com.br)
-- [Luwei Dev](https://luweidev.com.br)
+- [Luwei Software House](https://luwei.com.br) — tecnologia para transformar operações
+- [Luwei Flow](https://luweiflow.com.br) — trabalho, processos e inteligência conectados
+- [Luwei Dev](https://luweidev.com.br) — engenharia para ideias ambiciosas
 
----
+## Como trabalhamos
 
-Aracaju, Sergipe, Brasil
+Clareza antes da complexidade. Qualidade antes da pressa. Segurança e responsabilidade em cada decisão.
+
+> Think boldly. Build simply. Move forward.
